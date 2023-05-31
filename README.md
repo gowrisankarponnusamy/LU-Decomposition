@@ -11,7 +11,7 @@ To write a program to find the LU Decomposition of a matrix.
 1. import numpy as np
 2. from scipy.linalg import lu,lu_factor,lu_piv
 3. Get input from the user as eval(input())
-4. Use lu_factor and lu_solve to find LU decomposition
+4. Use lu_factor and lu_solve to find LU decomposition 
 5. print L,U
 6. print x
 
